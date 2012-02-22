@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: pagemenu.xml 1466 2010-06-06 14:20:18Z TobiasH87 $ -->
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/page-menu.xsd">
+	<import>
+		<pagemenuitem name="wcf.header.menu.legalnotice">
+			<iconmedium>legalNoticeM.png</iconmedium>
+			<iconsmall>legalNoticeS.png</iconsmall>
+			<position>footer</position>
+			<link>index.php?page=LegalNotice</link>
+			<options>module_legalnotice</options>
+		</pagemenuitem>
+	</import>
+</data>

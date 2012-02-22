@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: en.xml 1703 2011-01-17 16:12:04Z TobiasH87 $ -->
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd" languagecode="en">
+	<category name="wcf.acp.option">
+		<!-- module -->
+		<item name="wcf.acp.option.category.module.content.managepages"><![CDATA[Manage Pages]]></item>
+		<item name="wcf.acp.option.category.module.content.managepages.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.module_legalnotice"><![CDATA[Legal notice]]></item>
+		<item name="wcf.acp.option.module_legalnotice.description"><![CDATA[Enable Legal notice]]></item>
+		<!-- /module -->
+		<!-- page -->
+		<item name="wcf.acp.option.category.legalnotice"><![CDATA[Legal notice]]></item>
+		<item name="wcf.acp.option.category.legalnotice.description"><![CDATA[Here you can manage your legal notice.]]></item>
+		<item name="wcf.acp.option.category.legalnotice.general"><![CDATA[General]]></item>
+		<item name="wcf.acp.option.category.legalnotice.general.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.category.legalnotice.data"><![CDATA[Data]]></item>
+		<item name="wcf.acp.option.category.legalnotice.data.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.category.legalnotice.text"><![CDATA[Information]]></item>
+		<item name="wcf.acp.option.category.legalnotice.text.description"><![CDATA[]]></item>
+		
+		<item name="wcf.acp.option.legalnotice_url_use"><![CDATA[Forward]]></item>
+		<item name="wcf.acp.option.legalnotice_url_use.description"><![CDATA[If you are forwarding to an legal notice?]]></item>
+		<item name="wcf.acp.option.legalnotice_url"><![CDATA[URL]]></item>
+		<item name="wcf.acp.option.legalnotice_url.description"><![CDATA[Enter the URL (link) to redirect.]]></item>
+		<item name="wcf.acp.option.legalnotice_allow_spider"><![CDATA[Allow Spiders]]></item>
+		<item name="wcf.acp.option.legalnotice_allow_spider.description"><![CDATA[Allows search engines to search the site.]]></item>
+		<item name="wcf.acp.option.legalnotice_brandingfree"><![CDATA[Copyright hide?]]></item>
+		<item name="wcf.acp.option.legalnotice_brandingfree.description"><![CDATA[If you hide our copyright on the page?]]></item>
+
+		<item name="wcf.acp.option.legalnotice_name"><![CDATA[Name]]></item>
+		<item name="wcf.acp.option.legalnotice_name.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_address"><![CDATA[Address]]></item>
+		<item name="wcf.acp.option.legalnotice_address.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_email"><![CDATA[E-Mail-Address]]></item>
+		<item name="wcf.acp.option.legalnotice_email.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_email_userid_use"><![CDATA[E-Mail-Form]]></item>
+		<item name="wcf.acp.option.legalnotice_email_userid_use.description"><![CDATA[If you use instead of the e-mail address the e-mail form from the user profile?]]></item>
+		<item name="wcf.acp.option.legalnotice_email_userid"><![CDATA[User-ID]]></item>
+		<item name="wcf.acp.option.legalnotice_email_userid.description"><![CDATA[Enter the user ID of the user, which is to receive the e-mail.]]></item>
+		<item name="wcf.acp.option.legalnotice_phone"><![CDATA[Phone]]></item>
+		<item name="wcf.acp.option.legalnotice_phone.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_fax"><![CDATA[Fax]]></item>
+		<item name="wcf.acp.option.legalnotice_fax.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_representative"><![CDATA[Representatives]]></item>
+		<item name="wcf.acp.option.legalnotice_representative.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_register"><![CDATA[Register]]></item>
+		<item name="wcf.acp.option.legalnotice_register.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_vat_id"><![CDATA[VAT ID]]></item>
+		<item name="wcf.acp.option.legalnotice_vat_id.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_userid"><![CDATA[Contact person]]></item>
+		<item name="wcf.acp.option.legalnotice_userid.description"><![CDATA[Enter Optinal the user ID of the contact person. The name of the imprint is then linked to this.]]></item>
+		
+		<item name="wcf.acp.option.legalnotice_text"><![CDATA[Additional information]]></item>
+		<item name="wcf.acp.option.legalnotice_text.description"><![CDATA[You can enter additional information for your legal notice page here.]]></item>
+		<item name="wcf.acp.option.legalnotice_text_enable_smilies"><![CDATA[Smileys use]]></item>
+		<item name="wcf.acp.option.legalnotice_text_enable_smilies.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_text_enable_html"><![CDATA[HTML use]]></item>
+		<item name="wcf.acp.option.legalnotice_text_enable_html.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legalnotice_text_enable_bbcodes"><![CDATA[BBCodes use]]></item>
+		<item name="wcf.acp.option.legalnotice_text_enable_bbcodes.description"><![CDATA[]]></item>
+		<!-- /page -->
+	</category>
+
+	<category name="wcf.header.menu">
+		<item name="wcf.header.menu.legalnotice"><![CDATA[Legal notice]]></item>
+	</category>
+	
+	<category name="wcf.legalnotice">
+		<item name="wcf.legalnotice.title"><![CDATA[Legal notice]]></item>
+		<item name="wcf.legalnotice.description"><![CDATA[]]></item>
+		<item name="wcf.legalnotice.general"><![CDATA[General information]]></item>
+		<item name="wcf.legalnotice.name"><![CDATA[Name]]></item>
+		<item name="wcf.legalnotice.address"><![CDATA[Address]]></item>
+		<item name="wcf.legalnotice.email"><![CDATA[E-Mail-Address]]></item>
+		<item name="wcf.legalnotice.email.userid"><![CDATA[Contact form]]></item>
+		<item name="wcf.legalnotice.phone"><![CDATA[Phone]]></item>
+		<item name="wcf.legalnotice.fax"><![CDATA[Fax]]></item>
+		<item name="wcf.legalnotice.representative"><![CDATA[Representatives]]></item>
+		<item name="wcf.legalnotice.register"><![CDATA[Register]]></item>
+		<item name="wcf.legalnotice.vatid"><![CDATA[VAT ID]]></item>
+		<item name="wcf.legalnotice.text"><![CDATA[Additional information]]></item>
+	</category>
+	
+	<category name="wcf.global">
+		<item name="wcf.global.page.legalnotice.copyright"><![CDATA[<a href="http://community4wcf.de" style="font-size: x-small; text-decoration: none;">Legal notice, developed by Community4WCF</a>]]></item>
+	</category>
+	
+	<category name="wcf.usersOnline">
+		<item name="wcf.usersOnline.location.legalnotice"><![CDATA[<a href="index.php?page=LegalNotice{SID_ARG_2ND}">Impressum</a>]]></item>
+	</category>
+</language>
